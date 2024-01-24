@@ -1,0 +1,9 @@
+
+j
+java:S1192 "MDefine a constant instead of duplicating this literal "Ğ»Ğ¾Ğ³Ñ–Ğ½Ñƒ" 5 times.(–‘º’8òûÒÁÓ1
+]
+java:S1854 "@Remove this useless assignment to local variable "templateName".(–‘º’8€üÒÁÓ1
+N
+java:S1481 "1Remove this unused "templateName" local variable.(–‘º’8ƒüÒÁÓ1
+e
+java:S6353-"CUse concise character class syntax '\\w' instead of '[a-zA-Z0-9_]'.(Ş¨æîüÿÿÿÿ8·üÒÁÓ1

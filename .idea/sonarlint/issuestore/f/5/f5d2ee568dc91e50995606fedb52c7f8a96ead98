@@ -1,0 +1,11 @@
+
+_
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(­ˆ§Ÿ8†›€ºÓ1
+U
+java:S1128"8Remove this unused import 'com.google.gson.JsonElement'.(ð†˜³8Š›€ºÓ1
+\
+java:S1128"?Remove this unused import 'com.google.gson.JsonParseException'.(Œ­½Ö8Š›€ºÓ1
+Z
+java:S1128"=Remove this unused import 'com.google.gson.JsonDeserializer'.(ÿú±æ8‹›€ºÓ1
+c
+java:S1128"GRemove this unused import 'com.google.gson.JsonDeserializationContext'.(ÎÑ€%8‹›€ºÓ1
