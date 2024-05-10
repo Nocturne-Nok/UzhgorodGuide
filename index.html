@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>WebApps</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+  <h1>Вітаємо!</h1>
+  <button id="loginBtn" onclick="showLoginForm()">Авторизація</button>
+  <button id="registerBtn" onclick="showRegistrationForm()">Реєстрація</button>
+</div>
+
+<div class="login-form hidden" id="loginForm">
+  <h2>Авторизація</h2>
+  <input type="email" placeholder="Email" id="loginEmail">
+  <input type="text" placeholder="Ім'я користувача" id="loginUsername">
+  <input type="text" placeholder="Прізвище" id="loginLastname">
+  <input type="text" placeholder="Ім'я" id="loginFirstname">
+  <input type="password" placeholder="Пароль" id="loginPassword">
+  <button onclick="login()">Увійти</button>
+</div>
+
+<div class="registration-form hidden" id="registrationForm">
+  <h2>Реєстрація</h2>
+  <input type="email" placeholder="Email" id="registerEmail">
+  <input type="text" placeholder="Ім'я користувача" id="registerUsername">
+  <input type="text" placeholder="Прізвище" id="registerLastname">
+  <input type="text" placeholder="Ім'я" id="registerFirstname">
+  <input type="password" placeholder="Пароль" id="registerPassword">
+  <button onclick="register()">Зареєструватися</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
